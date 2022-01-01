@@ -18,3 +18,6 @@ The notebook is consists of the following contents:
 - Normalizing the data
 - Regression Using Machine Learning
 - Testing
+
+
+Data source: [link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
